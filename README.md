@@ -3,7 +3,6 @@
 <p align="center">
   <img height="300" src="images/images.jpeg">
 </p>
-
 ```
 Without change face, full body, the girls wearing a sky blu saree, red blouse and red saya. The boy wear white shirt, black pant. soft natural light, golden hour, ultra-realistic, detailed skin, professional photography, shallow depth of field, bokeh background, 8k,
 ```
