@@ -1,7 +1,7 @@
 # Ai-Image-Series
 ## Main Image
 <p align="center">
-  <img width="460" height="300" src="images/images.jpeg">
+  <img height="300" src="images/images.jpeg">
 </p>
 
 ```
